@@ -6,7 +6,7 @@
 
 TODO LIST : 
 - [ ] internship for school
-- [x] know osi model better than my mom $
+- [x] know osi model better than my mom 
 - [ ] find a sorting algorithm that sorts the wrong people
 - [x] make a profit by investing in pokedollars
 - [x] Know the solar system. 
